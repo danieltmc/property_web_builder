@@ -1,3 +1,5 @@
+Forked from propertywebbuilder.com and https://github.com/etewiah/property_web_builder for posterity
+
 # PropertyWebBuilder
 
 [![Build Status](https://api.travis-ci.org/etewiah/property_web_builder.svg?branch=master)](https://api.travis-ci.org/etewiah/property_web_builder)
